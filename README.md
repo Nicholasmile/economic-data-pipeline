@@ -1,6 +1,8 @@
 
 # Economic Research Data Platform
 
+🚀 **Live Application:** [Launch Economic Research Data Platform](https://economic-data-pipeline-rnyti7ab459xa8h3zbd9sc.streamlit.app/)
+
 A browser-based research workspace for students, researchers, economists, and data
 analysts. Select countries, years, and World Bank economic indicators; inspect
 observations and missing values; download CSV or a documented Excel workbook.
