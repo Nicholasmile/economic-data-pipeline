@@ -1,0 +1,4 @@
+-r requirements.txt
+# Optional notebook tools retained from the original requirements.
+jupyter
+# Tests use standard-library unittest; pytest is not required.

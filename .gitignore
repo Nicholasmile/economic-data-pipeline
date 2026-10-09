@@ -1,0 +1,26 @@
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/platform_cache/
+.streamlit/secrets.toml
+*.log
+.test_tmp/
+# Original datasets are intentionally not ignored or deleted.
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/

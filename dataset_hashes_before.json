@@ -1,0 +1,54 @@
+[
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\processed\\data_quality_report.csv",
+    "Hash": "ACC5E5CFE2EC737E1B3366946EC029979843B9A6A9FA9553212FFB8892577F46"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\processed\\nigeria_economic_data.csv",
+    "Hash": "257FBA9BCEEF968CEAF589B05CDAAEFED734F547CBECD489DA4C843D910151D5"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\processed\\NGA\\1990_2025\\data_quality_report.csv",
+    "Hash": "59F050DD22B3E51E52FBC23EF1C2C32B991CBE8BB24B5A4E56253E48A36C6427"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\processed\\NGA\\1990_2025\\NGA_1990_2025_GDP_Growth.xlsx",
+    "Hash": "11B3A38971B2475660D20ACCA9F7BEAD27885035BF553565D7375E284315FD4F"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\processed\\NGA\\1990_2025\\NGA_economic_data.csv",
+    "Hash": "257FBA9BCEEF968CEAF589B05CDAAEFED734F547CBECD489DA4C843D910151D5"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\processed\\NGA\\1990_2025\\NGA_economic_data.xlsx",
+    "Hash": "129FA13E89312A76F1ADFD832A61458D1BAB1602FA6EF92C26FAA0323CDBD60D"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\GDP_Growth.csv",
+    "Hash": "8F46D6633CE4110E69BDC8A73F72BE56335E16EF6F89918F1C219771662A57E8"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\nigeria_gdp_growth.csv",
+    "Hash": "2133D531C36D60743B7ECF68130D15BB05DADC1DB05B95D6C973E75025A12A00"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\nigeria_inflation_data.csv",
+    "Hash": "6485387057BEB6F92CC1BDA3FE4ED8BF4FC534D5CCAABD21241458B68C3E8B1A"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\Unemployment.csv",
+    "Hash": "8349999BACF27092A5AC9315A462BA1434AC79B7D8AD1230756FCD2B316DFE85"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\NGA\\1990_2025\\GDP_Growth_NY.GDP.MKTP.KD.ZG.csv",
+    "Hash": "8F46D6633CE4110E69BDC8A73F72BE56335E16EF6F89918F1C219771662A57E8"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\NGA\\1990_2025\\Inflation_FP.CPI.TOTL.ZG.csv",
+    "Hash": "6485387057BEB6F92CC1BDA3FE4ED8BF4FC534D5CCAABD21241458B68C3E8B1A"
+  },
+  {
+    "Path": "D:\\Data_Science_Projects\\economic_data_pipeline\\data\\raw\\NGA\\1990_2025\\Unemployment_SL.UEM.TOTL.ZS.csv",
+    "Hash": "8349999BACF27092A5AC9315A462BA1434AC79B7D8AD1230756FCD2B316DFE85"
+  }
+]
